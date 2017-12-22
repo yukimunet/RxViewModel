@@ -78,9 +78,9 @@ Currently `RxViewModel` supports the following features from [`ReactiveViewModel
 
 ## Author
 
-__Esteban Torres__ 
+__Esteban Torres__
 
-- [![](https://img.shields.io/badge/twitter-esttorhe-brightgreen.svg)](https://twitter.com/esttorhe) 
+- [![](https://img.shields.io/badge/twitter-esttorhe-brightgreen.svg)](https://twitter.com/esttorhe)
 - :email: me@estebantorr.es
 
 ## License
@@ -90,3 +90,7 @@ __Esteban Torres__
 [rvm]:https://github.com/ReactiveCocoa/ReactiveViewModel
 [rxcocoa]:https://github.com/ReactiveX/RxSwift
 [mvvm]:http://msdn.microsoft.com/en-us/library/gg430869(v=PandP.40).aspx
+
+## Test
+
+test
